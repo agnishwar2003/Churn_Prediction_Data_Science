@@ -96,7 +96,7 @@ Overall metrics:
 
 ## Output
 
-https://drive.google.com/file/d/1TooyevHmk8ZH8zozEeyUUtDGbD7n9T_r/view?usp=drive_link
+🎥 [Watch Project Demo on Google Drive](https://drive.google.com/file/d/1TooyevHmk8ZH8zozEeyUUtDGbD7n9T_r/view?usp=drive_link)
 
 ![image](https://github.com/user-attachments/assets/37fbdd12-9256-4d23-98a2-02106759c0ff)
 
